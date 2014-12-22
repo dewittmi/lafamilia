@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    {% block head %}
+    <title>La Familia</title>
+    {% endblock %}
+  </head>
+  <style>
+  body {
+      background-color: #000000;
+  }
+
+  </style>
+  <body>
+    <div id="content">{% block content %}{% endblock %}</div>
+    <div id="footer">
+      {% block footer %}
+      {% endblock %}
+    </div>
+  </body>
+</html>
+
+<style>
+    p.sansserif {
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+       }
+
+    p.brush {
+        font-family: "Brush Script MT", cursive;
+
+    </style>
