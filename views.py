@@ -18,3 +18,6 @@ def pv():
 def pc():
     return render_template('PC2014.html')
 
+@app.route('/fundedby')
+def gma():
+    return render_template('fundedby.html')
