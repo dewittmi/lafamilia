@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="855">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="855">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#p#0;n#h1#0;n#u#0;n#center#0;n#!!top" expanded="true" />
@@ -105,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PC2014.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PC2014.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/PC2014.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3797856" vertical-offset="862" max-vertical-offset="2340">
+            <state vertical-scroll-proportion="-10.333333" vertical-offset="862" max-vertical-offset="2340">
               <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#p#0;n#h1#0;n#center#0;n#a#1;n#font#0;n#font#0;n#!!top" expanded="true" />
@@ -192,10 +192,10 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/views.py" />
         <option value="$PROJECT_DIR$/templates/meetlafamilia.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/PV2013.html" />
         <option value="$PROJECT_DIR$/templates/fundedby.html" />
         <option value="$PROJECT_DIR$/templates/PC2014.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -719,19 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="855">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#p#0;n#h1#0;n#u#0;n#center#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#a#0;n#center#0;n#center#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#a#1;n#center#0;n#center#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/fundedby.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.833334" vertical-offset="226" max-vertical-offset="915">
@@ -775,7 +762,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/PC2014.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3797856" vertical-offset="862" max-vertical-offset="2340">
+        <state vertical-scroll-proportion="-10.333333" vertical-offset="862" max-vertical-offset="2340">
           <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#button#0;n#p#0;n#h1#0;n#center#0;n#a#1;n#font#0;n#font#0;n#!!top" expanded="true" />
@@ -798,6 +785,19 @@
             <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#3;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="855">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#p#0;n#h1#0;n#u#0;n#center#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#center#0;n#center#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#a#1;n#center#0;n#center#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
